@@ -1,0 +1,7 @@
+@inproceedings{REPO-078,
+    author = "Lin, Mingbao and Ji, Rongrong and Wang, Yan and Zhang, Yichen and Zhang, Baochang and Tian, Yonghong and Shao, Ling",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    pages = "1529--1538",
+    title = "{HRank: Filter Pruning using High-rank Feature Map}",
+    year = "2020"
+}
